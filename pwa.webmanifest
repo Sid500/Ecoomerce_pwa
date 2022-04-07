@@ -1,8 +1,7 @@
 {
     "name": "Groco Ecommerce App",
     "short_name": "Groco",
-    "start_url": "index.html",
-    "scope": "./",
+    "description": "Progressive Web App feature added in our application",
     "icons": [
     {
     "src": "head_logo.png",
@@ -15,6 +14,8 @@
     "type": "image/png"
     }
     ],
+    "id":"https://sid500.github.io/Ecoomerce_pwa/",
+    "start_url": "https://sid500.github.io/Ecoomerce_pwa/",
     "theme_color": "#ffd31d",
     "background_color": "#333",
     "display": "standalone"
